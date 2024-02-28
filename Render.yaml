@@ -1,0 +1,6 @@
+
+services:
+  - type: web
+    name: Learnmath
+    env: docker
+    plan: free
